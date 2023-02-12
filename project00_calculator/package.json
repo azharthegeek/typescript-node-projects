@@ -1,0 +1,19 @@
+{
+    "name": "azharcalculator",
+    "version": "1.0.3",
+    "description": "Develop a simple command line calculator using [TypeScipt](https://www.typescriptlang.org/), [Node.js](https://nodejs.org/en/) and [Inquirer](https://www.npmjs.com/package/inquirer).",
+    "bin": "index.js",
+    "type": "module",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "inquirer": "^9.1.4"
+    },
+    "devDependencies": {
+        "@types/inquirer": "^9.0.3"
+    }
+}
